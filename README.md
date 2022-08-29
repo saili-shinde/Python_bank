@@ -1,6 +1,7 @@
 # Python_bank
 basic bank operation project using basic python 
 ## Code
+'''
 `class python_bank:`
     `def __init__(self,bank_accounts,acc_no):`
         `self.bank_accounts=bank_accounts`
@@ -101,3 +102,4 @@ basic bank operation project using basic python
         `else:`
             `print('please select from given choices')`
     
+'''
